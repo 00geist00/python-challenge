@@ -1,4 +1,22 @@
 PyBank Challenge - analyzing finance records
-1) Pull in budget_data.csv to be able to manipulate
+1) Pull in budget_data.csv to be able to read and manipulate
 2) Familiarize yourself with the data (inc. constraints) [only contains Date and Profit/Losses]
-3)
+3) Calculate the follow:
+    - total number of months included in the dataset
+    - net total amount of "Profit/Losses" over the entire period [sum]
+    - avg. change in "Profit/Losses" over the entire period [ ]
+    - The greatest increase in profits (date and amount) over the entire period
+    - The greatest decrease in losses (date and amount) over the entire period
+
+
+4) Print out the following format in terminal:
+
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average  Change: $-2315.12
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Greatest Decrease in Profits: Sep-2013 ($-2196167)
+
+5) Export a text file with the above results
