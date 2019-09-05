@@ -8,8 +8,9 @@ PyBank Challenge - analyzing finance records
     - The greatest increase in profits (date and amount) over the entire period
     - The greatest decrease in losses (date and amount) over the entire period
 
+4) Create a new list to be able to track increases and decreases in each monthly profit/lose [loop]
 
-4) Print out the following format in terminal:
+5) Print out the following format in terminal:
 
 Financial Analysis
 ----------------------------
@@ -19,4 +20,4 @@ Average  Change: $-2315.12
 Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
-5) Export a text file with the above results
+6) Export a text file with the above results
